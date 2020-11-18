@@ -1,0 +1,60 @@
+.admin{
+    background: indigo;
+    color: ivory;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.user{
+    background: indigo;
+    color: ivory;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.index{
+    background: indigo;
+    margin-top: 20%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+.fondo{
+    background: rgb(145, 219, 248);
+    font-family: 'Libre Baskerville', serif;
+}
+
+.fondo2{
+    background: rgb(172, 255, 197);
+    font-family: 'Libre Baskerville', serif;
+}
+
+.red-text{
+    color: red;
+}
+
+.black-text{
+    color: blue;
+}
+
+
+
+
+
+
+.ancho-100{
+    width: 100%;
+}
+
+ /* label focus color */
+ .input-field input:focus + label {
+    color: rgb(255, 255, 255) !important;
+}
+/* label underline focus color */
+  .input-field input:focus {
+    border-bottom: 1px solid rgb(6, 17, 170) !important;
+    box-shadow: 0 1px 0 0 rgb(0, 255, 64) !important;
+  }
+
+  
+ 
+  
+  
